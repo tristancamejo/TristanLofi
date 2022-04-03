@@ -1,0 +1,61 @@
+{
+  "$schema": "https://gist.githubusercontent.com/twisttaan/0dc4c12aeb4f175bb9a7311a690b6918/raw/0686aab2257ef78dc423f6977e9b488b9baa5ab3/album-schema.json",
+  "name": "coffee shop vibes",
+  "artist": "Tristan Camejo",
+  "songs": [
+    {
+      "name": "coffee shop",
+      "ISRC": "QZNWS2081412",
+      "artist": "Tristan Camejo",
+      "file": "./coffeeshop.ogg"
+    },
+    {
+      "name": "apple juice",
+      "ISRC": "QZMEQ2097401",
+      "artist": "Tristan Camejo",
+      "file": "./applejuice.ogg"
+    },
+    {
+      "name": "go to the back",
+      "ISRC": "QZNWS2081413",
+      "artist": "Tristan Camejo",
+      "file": "./gototheback.ogg"
+    },
+    {
+      "name": "yesterday",
+      "ISRC": "QZNWS2081414",
+      "artist": "Tristan Camejo",
+      "file": "./yesterday.ogg"
+    },
+    {
+      "name": "sleep tight",
+      "ISRC": "QZNWS2081415",
+      "artist": "Tristan Camejo",
+      "file": "./sleeptight.ogg"
+    },
+    {
+      "name": "good night",
+      "ISRC": "QZNWS2081416",
+      "artist": "Tristan Camejo",
+      "file": "./goodnight.ogg"
+    },
+    {
+      "name": "study",
+      "ISRC": "QZNWS2081417",
+      "artist": "Tristan Camejo",
+      "file": "./study.ogg"
+    },
+    {
+      "name": "rise n shine",
+      "ISRC": "QZNWS2081418",
+      "artist": "Tristan Camejo",
+      "file": "./risenshine.ogg"
+    },
+    {
+      "name": "memory lane",
+      "ISRC": "QZK6G2060774",
+      "artist": "Tristan Camejo",
+      "file": "./memorylane.ogg"
+    }
+  ]
+}

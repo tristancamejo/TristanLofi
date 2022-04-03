@@ -1,0 +1,10 @@
+{
+  "$schema": "https://gist.githubusercontent.com/twisttaan/af843d10bcb8a02f79c7d5204f76cdd7/raw/78457091448566e6d94b7fc302d359c0115212ee/cd-case-schema.json",
+  "name": "Tristan Camejo",
+  "license": "Give credit",
+  "genre": "Lofi Hip-Hop",
+  "socials": [
+    "https://open.spotify.com/artist/679fomgbyy6UpTYfTxRy6E?si=090231007d2e4fd6"
+  ],
+  "albums": ["./coffee-shop-vibes/cd.json"]
+}
